@@ -28,7 +28,7 @@ public class MainActivity extends ActionBarActivity implements ActionBar.TabList
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
-        //new comment
+        //new co
 
         // Set the Action Bar to use tabs for navigation
         ActionBar ab = getSupportActionBar();
